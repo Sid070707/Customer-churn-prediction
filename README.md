@@ -18,6 +18,11 @@ Logistic Regression
 ## Deployment
 Streamlit web app for real-time predictions.
 
+
+## Live Demo
+Streamlit App:
+https://customer-churn-prediction-mbm3hsgcma8sewze35hglx.streamlit.app/
+
 ## Tech Stack
 Python
 Scikit-learn
